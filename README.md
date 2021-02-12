@@ -38,13 +38,13 @@ Try creating new instances of the models `Post`, `User` and `Comment`
 
 - GitHub: [@gscarv13](https://github.com/gscarv13)
 - Twitter: [@Gscarv13](https://twitter.com/Gscarv13)
-- LinkedIn: [Gustavo Carvalho](https://www.linkedin.com/in/gustavo-silva-de-carvalho-72998a156/)
+- LinkedIn: [Gustavo Carvalho](www.linkedin.com/in/gscarv13)
 
 👤 **Alicia Rojas**
 
 - GitHub: [@aliciapaz](https://github.com/aliciapaz)
 - Twitter: [@_alicia_paz](https://twitter.com/_alicia_paz)
-- LinkedIn: [Alicia Rojas](https://www.linkedin.com/in/alicia-rojas/)
+- LinkedIn: [Alicia Rojas](https://www.linkedin.com/in/aliciapazrojas/)
 
 ## 🤝 Contributing
 
